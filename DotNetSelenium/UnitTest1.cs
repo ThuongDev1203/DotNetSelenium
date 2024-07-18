@@ -18,7 +18,7 @@ namespace DotNetSelenium
         {
             loginTests.TestLogin();
         }
- 
+
         [TearDown]
         public void Teardown()
         {
